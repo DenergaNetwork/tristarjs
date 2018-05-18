@@ -1,7 +1,6 @@
 TODO
 ====
 
-- Fix temperature
-- Installation instructions
-- Build instructions
+- Nginx instructions
+- Instructions for auth
 - Historical data
